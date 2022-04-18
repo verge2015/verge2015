@@ -1,10 +1,10 @@
 [![MasterHead](https://onlylinks.pro/wp-content/uploads/2021/01/main-qimg-fa7b4bdc3b2f73e749e5c2c646d4ae13.gif)](https://github.com/verge2015)
-<h1 align="center">Hi 👋, I'm Vergel "Verge" Mañalac</h1>
+<h1 align="center">Hi 👋, I'm Vergel Mañalac</h1>
 <h3 align="center">A passionate Full Stack Developer from Philippines</h3>
 
-<!--<p align="left" > <img  width="100%"; src="https://149695847.v2.pressablecdn.com/wp-content/uploads/2018/12/developer-dribbble.gif" alt="verge2015" /> </p>
--->
-- 🔭 I’m currently working on **Accounting System, Inventory Management and Payroll System**
+<p align="center" > <img width="25%"; src="https://user-images.githubusercontent.com/16742524/163816116-b29429e0-becf-4d12-9e83-5fa4515f4c61.png" alt="verge2015" /> </p>
+
+- 🔭 I’m currently working on **Accounting System**
 
 - 🌱 I’m currently learning **Web Development with NodeJS, ReactJS**
 
@@ -26,3 +26,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=verge2015&show_icons=true&locale=en" alt="verge2015" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=verge2015&" alt="verge2015" /></p>
+
