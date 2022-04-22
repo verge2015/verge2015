@@ -4,7 +4,7 @@
 
 <p align="center" > <img width="25%"; src="https://user-images.githubusercontent.com/16742524/163816116-b29429e0-becf-4d12-9e83-5fa4515f4c61.png" alt="verge2015" /> </p>
 
-- 🔭 I’m currently working on **Accounting System**
+- 🔭 I’m currently working on **Accounting System, Inventory Management and Payroll System**
 
 - 🌱 I’m currently learning **Web Development with NodeJS, ReactJS**
 
