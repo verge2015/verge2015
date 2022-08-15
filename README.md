@@ -26,13 +26,13 @@
 </p>
 
 <!-- Most Language Used -->
-<p align="center">&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=verge2015&show_icons=true&locale=en&layout=compact" alt="verge2015" width="100%" /></p>
+<p align="center">&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=verge2015&show_icons=true&locale=en&layout=compact" alt="verge2015" width="50%" /></p>
 
 <!-- GitHub Stats -->
-<p  align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=verge2015&show_icons=true&locale=en" alt="verge2015"  width="100%" /></p>
+<p  align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=verge2015&show_icons=true&locale=en" alt="verge2015"  width="50%" /></p>
 
 <!-- Streak -->
-<p  align="center">&nbsp;<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=verge2015&" alt="verge2015"  width="100%"/></p>
+<p  align="center">&nbsp;<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=verge2015&" alt="verge2015"  width="50%"/></p>
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=verge2015" alt="verge2015"  width="100%"/></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=verge2015" alt="verge2015"  width="50%"/></a> </p>
 
