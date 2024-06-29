@@ -1,11 +1,7 @@
 ![](https://komarev.com/ghpvc/?username=verge2015&color=green)
 [![MasterHead](https://onlylinks.pro/wp-content/uploads/2021/01/main-qimg-fa7b4bdc3b2f73e749e5c2c646d4ae13.gif)](https://github.com/verge2015)
 <h1 align="center">Hi 👋, I'm Vergel Mañalac</h1>
-<h3 align="center">A passionate Full Stack Developer from Philippines</h3> 
-
-
-
-<p align="center" > <img width="25%"; src="https://user-images.githubusercontent.com/16742524/163816116-b29429e0-becf-4d12-9e83-5fa4515f4c61.png" alt="verge2015" /> </p>
+<h3 align="center">A passionate Software Engineer from Philippines</h3> 
 
 - 🔭 I’m currently working on **Accounting System, Inventory Management and Payroll System**
 
