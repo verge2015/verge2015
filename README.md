@@ -5,10 +5,6 @@
 
 - 🔭 I’m currently working on **Accounting System, Inventory Management and Payroll System**
 
-- 🌱 I’m currently learning **Web Development with NodeJS, ReactJS**
-
-- 💬 Ask me about **VB.NET, C#, MySQL**
-
 - 📫 How to reach me **verge2015@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
